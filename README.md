@@ -1,4 +1,5 @@
 # TO-DO-LIST
+
 <b>To-Do List Application</b>
 Tech Stack: <b>HTML</b>,<b> CSS</b>,<b>JavaScript</b>
 
@@ -17,3 +18,4 @@ Tech Stack: <b>HTML</b>,<b> CSS</b>,<b>JavaScript</b>
 
 
 <img width="1570" height="781" alt="Screenshot 2026-03-06 172252" src="https://github.com/user-attachments/assets/833cb61f-9a90-4325-bb40-e70fb424445e" />
+
