@@ -10,12 +10,12 @@ Tech Stack: <b>HTML</b>,<b> CSS</b>,<b>JavaScript</b>
 
 <b>Project Layout:</b>
 
-<img width="1843" height="832" alt="Screenshot 2026-03-06 172023" src="https://github.com/user-attachments/assets/4bb68820-47c2-4242-985b-7765e00dd19f" />
+<img width="1477" height="756" alt="Screenshot 2026-03-06 172112" src="https://github.com/user-attachments/assets/b7fea919-39a0-49ff-99ff-9515adf47c3d" />
 
-<img width="1477" height="756" alt="Screenshot 2026-03-06 172112" src="https://github.com/user-attachments/assets/8d2d95b0-978d-427a-ad3d-0eea10174e97" />
+<img width="1512" height="792" alt="Screenshot 2026-03-06 172232" src="https://github.com/user-attachments/assets/7456e59b-6768-46cb-b10b-9cfd6ebb51f0" />
 
-<img width="1512" height="792" alt="Screenshot 2026-03-06 172232" src="https://github.com/user-attachments/assets/3c4f1fa1-2e69-4440-8d16-5abd8b520297" />
+<img width="1570" height="781" alt="Screenshot 2026-03-06 172252" src="https://github.com/user-attachments/assets/3a245adc-3482-47ac-bccc-6055d548174c" />
 
 
-<img width="1570" height="781" alt="Screenshot 2026-03-06 172252" src="https://github.com/user-attachments/assets/833cb61f-9a90-4325-bb40-e70fb424445e" />
+
 
